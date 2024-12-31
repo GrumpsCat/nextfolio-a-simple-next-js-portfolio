@@ -10,7 +10,7 @@ export const projects: Project[] = [
     title: "Project One",
     year: 2023,
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
+      "111Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam veritatis dolorem rem praesentium dicta labore, at laudantium quisquam.",
     url: "https://example.com/",
   },
   {
